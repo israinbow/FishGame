@@ -1,1 +1,2 @@
 # FishGame
+这是一个纯JavaScript实现的canvas小游戏
